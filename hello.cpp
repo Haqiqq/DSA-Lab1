@@ -1,4 +1,3 @@
-5.	Create a simple C++ starter file
 #include <iostream>
 using namespace std;
 
